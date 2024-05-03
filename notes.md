@@ -9,6 +9,6 @@ query.php qui permet de faire direct des requetes dans les bases SQLite
 
 Dans lequels les hashes des users sont en sha256 donc ça se trouve relativement bien a la raibowtable
 
-et il y a des injections de commandes post auth dans des fonctions évidentes (test FTP duuuuuuh.......)
+et il y a des injections de commandes blind post auth dans des fonctions évidentes (test FTP duuuuuuh.......)
 
-
+Pti scripts tout aussi éclaté pour pwn le tout
