@@ -7,7 +7,7 @@ encore un truc claqué au sol
 
 query.php qui permet de faire direct des requetes dans les bases SQLite 
 
-Dans lequels les hashes des users sont en sha256 pas salé donc ça se trouve relativement bien a la rainbow table
+Dans lequels les hashes des users sont en sha256 pas salé donc ça se trouve relativement bien a la rainbow table,on peut aussi ajouter des users/admins
 
 et il y a des injections de commandes blind post auth dans des fonctions évidentes (test FTP duuuuuuh.......)
 
