@@ -11,9 +11,12 @@ Dans lequels les hashes des users sont en sha256 pas salé donc ça se trouve re
 
 et il y a des injections de commandes blind post auth dans des fonctions évidentes (test FTP duuuuuuh.......)
 
-Pti scripts tout aussi éclaté pour pwn le tout, fleme de faire la full chaine mais ça se fait 
+Pti scripts tout aussi éclaté pour pwn le tout, fleme de faire la full chaine mais ça se fait :
+
 -création admin via query.php
+
 -login avec le nouvel admin pour valider un cookie (ya une session fixation donc meme pas beosin de s'emmerder avec la recupération)
+
 -exec via l'injection de commande
 
 
