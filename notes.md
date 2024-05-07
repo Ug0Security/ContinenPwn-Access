@@ -1,6 +1,8 @@
 shodan : http.favicon.hash:-1427156024
 "Continental Access" 
 
+edit :  le meme concept est trouvable sur d'autre produit/marque ex : http.favicon.hash:-1001714754 (Speco Technologies)
+
 encore un truc claqué au sol
 
 ![bTQcu0](https://github.com/Ug0Security/ContinenPwn-Access/assets/28728543/8e1ed0a4-0ee4-4d1a-b9d1-f1af77a7a6ff)
