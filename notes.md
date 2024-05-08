@@ -3,11 +3,17 @@ shodan : http.favicon.hash:-1427156024 "Continental Access"
 edit :  le meme concept est exploitable sur d'autre produit/marque ex :
 
 http.favicon.hash:-1001714754 (Speco Technologies)
+
 http.favicon.hash:-2070898523 (Sicunet Neptune)
+
 http.favicon.hash:724459871 (Envera Systems)
+
 http.favicon.hash:577600341 (TECH Electronics)
+
 http.favicon.hash:-1950334915 (Troy Access)
+
 http.favicon.hash:1140167191 (NAPCO Security Technologies)
+
 http.favicon.hash:-1849238860 (Carolina Time)
 
 pour un total de 180+ hosts exposés 
